@@ -29,7 +29,7 @@
   
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   
-  <a href="https://sequelize.org/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F273892%2Fsequelize&psig=AOvVaw2RtZdIANN1Dv_pjs-elRli&ust=1707351206706000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjizoP5l4QDFQAAAAAdAAAAABAF" alt="sequelize" width="40" height="40"/> </a> 
+  <a href="https://sequelize.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" width="40" height="40"/> </a> 
 
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Fsearch%3Fq%3Dlogo%2Bpostgresql&psig=AOvVaw0WXTMHbdmnJUbJD1a_sf2Y&ust=1707351393587000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDu29z5l4QDFQAAAAAdAAAAABAE" alt="postgreSQL" width="40" height="40"/> </a> 
   
