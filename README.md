@@ -29,15 +29,6 @@
 <h3 align="left">Streak</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MONTAR0N&" alt="MONTAR0N" /></p>
 
-<h3 align="left">Coding Activity</h3>
-<details>
-  <summary>Wakatime Stats</summary>
-  <p align="center"> 
-    <img src="https://wakatime.com/share/@7177670b-1a0d-474b-bdbf-41bdfa46e386/2370f337-07d0-406f-bd59-3ccec17d4f79.svg" height="500" alt="Coding Time" /> 
-    <img src="https://wakatime.com/share/@7177670b-1a0d-474b-bdbf-41bdfa46e386/3771eb71-3f96-4905-a324-c175b75ec368.svg" height="500" alt="Coding Languages" />
-  </p>
-</details>
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/vicente-avil%C3%A9s-93a63b171/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saurav-chamoli" height="30" width="40" /></a>
