@@ -3,8 +3,12 @@
 <h4 align="center">A full-stack developer and also a lawyer, please take a look at my repository</h4>
 </div>
 
-
-
+<div align="center">
+  <a href="https://github.com/MONTAR0N">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+//Animations credit: azzar budiyanto 
 -----
 
 
