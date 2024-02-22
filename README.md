@@ -6,7 +6,8 @@
 <div align="center">
   <a href="https://github.com/MONTAR0N">
   <img  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"
-       alt="catRobot" /></a>
+       alt="catRobot" 
+    width="200" height="200"/></a>
 </div>
 -----
 
