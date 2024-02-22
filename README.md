@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/MONTAR0N">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"
+       alt="catRobot" /></a>
 </div>
 -----
 
