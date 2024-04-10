@@ -12,11 +12,11 @@
 -----
 
 
-- 🔭 I’m currently working on **VUE.JS**
+- 🔭 I’m currently working on **LEGALTECH**
 
-- 🌱 I’m currently learning **VUE.JS**
+- 🌱 I’m currently learning **PYTHON**
 
-- 💬 Ask me about **REACT, REDUX, SEQUELIZE, NODEJS.**
+- 💬 Ask me about **JAVASCRIPT, REACT, REDUX, SEQUELIZE, NODEJS.**
 
 - 📫 How to reach me **vavilesb1@gmail.com**
 
